@@ -6,6 +6,8 @@ A tool for Windows 7, 8, 8.1, 10 to resize your windows while programming
 
 ## Usage
 
+### Standard Combos
+
 `Windows + Alt + Left` keys
 
 Moves to: Half window on the left
@@ -13,6 +15,9 @@ Moves to: Half window on the left
 `Windows + Alt + Right` keys
 
 Moves to: Half window on the right
+
+
+### Advanced Combos
 
 `Windows + Alt + Left Shift + Left` keys
 
@@ -45,3 +50,12 @@ Moves to: Lower-half Window
 `Windows + Alt + Control + Down` keys
 
 Moves to: Minimize Window
+
+Basically:
+Performing a standard combo moves your current window left or right of the screen by half
+Additionally..
+
+- When you hold Shift it will limit  window resizing to the upper part of the screen
+- When you hold Control (CTRL) it will limit window resizing to lower part the screen
+
+![](http://i.imgur.com/mw4JRbV.png)
