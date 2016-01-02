@@ -1,8 +1,12 @@
 # mosaico
-A tool for Windows 7, 8, 8.1, 10 to resize your windows while programming
+A tool for Windows 7, 8, 8.1, 10 to re-size your windows with your keyboard.
 
 ## Installation
-- Unzip the file anywhere and run it, it will run in your taskbar until you close
+- Unzip the file anywhere and run it, it will run in your taskbar until you close it from it.
+
+
+## Demo
+[Demo](https://gfycat.com/DenseNeatCod)
 
 ## Usage
 
