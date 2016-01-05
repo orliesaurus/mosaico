@@ -3,7 +3,7 @@ A tool for Windows 7, 8, 8.1, 10 to re-size your windows with your keyboard.
 
 ## Installation
 - Unzip the file anywhere and run it, it will run in your taskbar until you close it from it.
-
+- There are **two versions**, one for those who like to autohide the windows task bar, and one for everyone who doesnt. Download accordingly
 
 ## Demo
 [Demo](https://gfycat.com/DenseNeatCod)
